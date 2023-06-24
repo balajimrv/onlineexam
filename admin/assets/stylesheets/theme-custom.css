@@ -1,0 +1,4 @@
+/* Add here all your CSS customizations */
+th { vertical-align:middle !important; }
+td { vertical-align:top !important; }
+.req { color:#FF0000; }
